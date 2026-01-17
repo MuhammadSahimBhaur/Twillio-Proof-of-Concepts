@@ -1,0 +1,12 @@
+{
+    "RecordingSource": "RecordVerb",
+    "RecordingSid": "RE887856d5533649c0c9b852b86d38b5f2",
+    "RecordingUrl": "https://api.twilio.com/2010-04-01/Accounts/AC4cb87321ece5adc594eb9a3c15de5a99/Recordings/RE887856d5533649c0c9b852b86d38b5f2",
+    "RecordingStatus": "completed",
+    "RecordingChannels": "1",
+    "ErrorCode": "0",
+    "CallSid": "CA60b22ed719cc6882f5e7744e3510abab",
+    "RecordingStartTime": "Mon, 12 Jan 2026 03:40:47 +0000",
+    "AccountSid": "AC4cb87321ece5adc594eb9a3c15de5a99",
+    "RecordingDuration": "7"
+}
