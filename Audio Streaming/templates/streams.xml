@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Connect>
+    <Stream name="Test Audio Stream" url="wss://3ad07e8bc34a.ngrok-free.app/recordstream"></Stream>
+  </Connect>
+    <Say>The stream has started.</Say>
+    <Pause length="20"/>  
+</Response>
